@@ -9,9 +9,3 @@ spring:
 server:
   servlet:
     context-path: /sell
-#logging:
-#  pattern:
-#    console: "%d - %msg%n"
-#  path: /Users/y1271752959m/Documents/project/log
-#  file: /Users/y1271752959m/Documents/project/log/sell.log
-#  level: debug
