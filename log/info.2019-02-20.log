@@ -1,0 +1,21 @@
+error...
+error...
+error...
+Starting LoggerTest on y1271752959mdeMacBook-Pro.local with PID 13258 (started by y1271752959m in /Users/y1271752959m/Documents/project)
+No active profile set, falling back to default profiles: default
+Initializing ExecutorService 'applicationTaskExecutor'
+Started LoggerTest in 3.089 seconds (JVM running for 4.211)
+info...
+Shutting down ExecutorService 'applicationTaskExecutor'
+Starting LoggerTest on y1271752959mdeMacBook-Pro.local with PID 13264 (started by y1271752959m in /Users/y1271752959m/Documents/project)
+No active profile set, falling back to default profiles: default
+Initializing ExecutorService 'applicationTaskExecutor'
+Started LoggerTest in 3.079 seconds (JVM running for 4.16)
+info...
+Shutting down ExecutorService 'applicationTaskExecutor'
+Starting LoggerTest on y1271752959mdeMacBook-Pro.local with PID 13269 (started by y1271752959m in /Users/y1271752959m/Documents/project)
+No active profile set, falling back to default profiles: default
+Initializing ExecutorService 'applicationTaskExecutor'
+Started LoggerTest in 3.467 seconds (JVM running for 4.831)
+info...
+Shutting down ExecutorService 'applicationTaskExecutor'

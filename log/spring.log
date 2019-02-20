@@ -1,0 +1,7 @@
+2019-02-20 13:57:58.293  INFO 13175 --- [main] com.imooc.sell.LoggerTest                : Starting LoggerTest on y1271752959mdeMacBook-Pro.local with PID 13175 (started by y1271752959m in /Users/y1271752959m/Documents/project)
+2019-02-20 13:57:58.295  INFO 13175 --- [main] com.imooc.sell.LoggerTest                : No active profile set, falling back to default profiles: default
+2019-02-20 13:58:00.910  INFO 13175 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-20 13:58:01.291  INFO 13175 --- [main] com.imooc.sell.LoggerTest                : Started LoggerTest in 3.802 seconds (JVM running for 5.536)
+2019-02-20 13:58:01.547  INFO 13175 --- [main] com.imooc.sell.LoggerTest                : info...
+2019-02-20 13:58:01.548 ERROR 13175 --- [main] com.imooc.sell.LoggerTest                : error...
+2019-02-20 13:58:01.557  INFO 13175 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
